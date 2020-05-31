@@ -1,0 +1,42 @@
+name: flutterpp
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_sign_in: ^4.5.1
+  firebase_auth: ^0.16.1
+  firebase_database: ^3.0.7
+  nice_button: ^0.1.7
+  cupertino_icons: ^0.1.3
+  http: ^0.12.1
+  youtube_player_flutter: ^6.1.1
+  flutter_bloc: ^4.0.0
+  flutter_sparkline: ^0.1.0
+  flutter_staggered_grid_view: ^0.3.0
+  flutter_circular_chart: ^0.1.0
+  font_awesome_flutter: ^8.8.1
+  charts_flutter: ^0.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_icons:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/pokeCode.png
+    - images/C++Cartoon.jpg
+    - images/FlutterCartoon.jpeg
+    - images/home.png
+    - images/monica.png
+    - images/PythonCartoon.jpg
+    - images/CCartoon.png
+    - images/
+    - images/DockerCartoon.png
+
